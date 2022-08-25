@@ -1,6 +1,6 @@
-Nama Program = Introduction to Python for Data Science__
-Batch = 9__
-Nama = Johnson Rouslie Junior__
-Domisili = Medan__
-Universitas = Universitas Mikroskil__
-NIM = 191112296__
+Nama Program = Introduction to Python for Data Science <br />
+Batch = 9 <br />
+Nama = Johnson Rouslie Junior <br />
+Domisili = Medan <br />
+Universitas = Universitas Mikroskil <br />
+NIM = 191112296 <br />
